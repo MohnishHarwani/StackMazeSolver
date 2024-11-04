@@ -1,0 +1,36 @@
+cyclic_double_queue is empty!
+[-][-][-][-][-][-]
+[-][-][-][-][-][-]
+cyclic_double_queue is empty!
+-17
+[-][-][-][-][+][-]
+8
+6
+6
+10
+[-][-][-][-][-][-]
+cyclic_double_queue is empty!
+cyclic_double_queue is empty!
+[-][-][-][+][+][-]
+75
+36
+cyclic_double_queue is empty!
+cyclic_double_queue is empty!
+cyclic_double_queue is empty!
+6
+-83
+2
+6
+[-][-][+][+][+][-]
+10
+[-][-][-][+][+][-]
+-84
+40
+-97
+[-][+][+][+][+][-]
+6
+17
+-75
+76
+6
+94
