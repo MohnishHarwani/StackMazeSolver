@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG "CMakeFiles/queue-app.dir/src/queue_app.cpp.o" -o queue-app  libproject1.a 

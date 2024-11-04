@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG "CMakeFiles/maze-app.dir/src/maze_app.cpp.o" -o maze-app  libproject1.a 

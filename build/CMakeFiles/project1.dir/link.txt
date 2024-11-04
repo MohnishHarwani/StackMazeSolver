@@ -1,0 +1,2 @@
+/usr/bin/ar qc libproject1.a CMakeFiles/project1.dir/src/maze.cpp.o CMakeFiles/project1.dir/src/maze_app.cpp.o CMakeFiles/project1.dir/src/queue_app.cpp.o
+/usr/bin/ranlib libproject1.a

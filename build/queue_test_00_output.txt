@@ -1,0 +1,7 @@
+cyclic_double_queue is empty!
+81.7756
+cyclic_double_queue is empty!
+9
+cyclic_double_queue is empty!
+cyclic_double_queue is empty!
+cyclic_double_queue is empty!

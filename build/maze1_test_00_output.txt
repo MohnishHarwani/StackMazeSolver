@@ -1,0 +1,103 @@
+Checkpoint 1
+Checkpoint 2
+Checkpoint 1
+Checkpoint 2
+Checkpoint 1
+Checkpoint 2
+Checkpoint 1
+Checkpoint 2
+Checkpoint 1
+Checkpoint 2
+Checkpoint 1
+Checkpoint 2
+Checkpoint 1
+Checkpoint 2
+Checkpoint 1
+Checkpoint 2
+Checkpoint 1
+Checkpoint 2
+Checkpoint 1
+Checkpoint 2
+Checkpoint 1
+Checkpoint 2
+Checkpoint 1
+Checkpoint 2
+Checkpoint 1
+Checkpoint 2
+Checkpoint 1
+Checkpoint 2
+Checkpoint 1
+Checkpoint 2
+Checkpoint 1
+Checkpoint 2
+Checkpoint 1
+Checkpoint 2
+Checkpoint 1
+Checkpoint 2
+Checkpoint 1
+Checkpoint 2
+Checkpoint 1
+Checkpoint 2
+Checkpoint 1
+Checkpoint 2
+Checkpoint 1
+Checkpoint 1
+Checkpoint 1
+Checkpoint 1
+Checkpoint 1
+Checkpoint 2
+Checkpoint 1
+Checkpoint 2
+Checkpoint 1
+Checkpoint 2
+Checkpoint 1
+Checkpoint 2
+Checkpoint 1
+Checkpoint 1
+Checkpoint 1
+Checkpoint 1
+Checkpoint 1
+Checkpoint 1
+Checkpoint 1
+Checkpoint 1
+Checkpoint 1
+Checkpoint 1
+Checkpoint 1
+Checkpoint 2
+Checkpoint 1
+Checkpoint 1
+Checkpoint 1
+Checkpoint 1
+Checkpoint 1
+Checkpoint 1
+Checkpoint 1
+Checkpoint 1
+Checkpoint 1
+Checkpoint 1
+Checkpoint 1
+Checkpoint 1
+Checkpoint 1
++---+---+---+
+| X | X   X |
++   +---+   +
+| X | F   X |
++   +---+---+
+| F | F   F |
++---+---+---+
+
++---+---+---+
+| F | F   X |
++---+---+   +
+| F   B | F |
++---+   +---+
+|   | B |   |
++---+---+---+
+
++---+---+---+
+| B | B | X |
++   +   +   +
+| B | X | B |
++---+   +   +
+| B   X | B |
++---+---+---+
+

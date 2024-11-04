@@ -1,0 +1,45 @@
+[-][-][-][-][-][-][-][-][-]
+-56.4068
+cyclic_double_queue is empty!
+9
+9
+12.1768
+9
+85.8031
+1
+[-][-][-][-][-][-][-][+][-]
+83.4507
+[-][-][-][-][-][+][+][+][-]
+-68.0847
+3
+-68.0847
+9
+2
+[-][-][-][-][-][-][+][+][-]
+[-][-][-][-][-][-][+][+][-]
+67.4387
+9
+cyclic_double_queue is empty!
+[-][-][-][-][-][-][-][-][-]
+9
+cyclic_double_queue is empty!
+cyclic_double_queue is empty!
+9
+cyclic_double_queue is empty!
+cyclic_double_queue is empty!
+1
+-40.9117
+cyclic_double_queue is empty!
+cyclic_double_queue is empty!
+cyclic_double_queue is empty!
+cyclic_double_queue is empty!
+[-][-][-][-][-][-][-][+][-]
+[-][-][-][-][-][-][+][+][-]
+[-][-][-][-][-][-][+][+][-]
+-95.4351
+-54.2287
+15.0547
+28.3633
+-66.1259
+4
+9
