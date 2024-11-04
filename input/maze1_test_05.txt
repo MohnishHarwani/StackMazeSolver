@@ -1,0 +1,13 @@
+8
+14
+4
+900137439
+print_walls
+0
+print_walls
+1
+print_walls
+2
+print_walls
+3
+quit

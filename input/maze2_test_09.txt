@@ -1,0 +1,16 @@
+7
+9
+2
+919112565
+solve
+2
+8
+0
+0
+2
+0
+print_marks
+0
+print_marks
+1
+quit

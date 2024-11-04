@@ -1,0 +1,15 @@
+float
+9
+2
+2
+gf
+ef 19.8267
+ef 81.7756
+pb
+db
+pb
+gc
+gb
+df
+pf
+qt

@@ -1,0 +1,89 @@
+float
+9
+2
+2
+ps
+ef 21.3451
+ef -56.4068
+pb
+df
+df
+gc
+eb 12.1768
+gc
+gf
+pf
+ef 85.8031
+gc
+db
+ef 83.4507
+gs
+ps
+df
+ef -68.0847
+ef 67.4387
+ef 14.9076
+ps
+gb
+pf
+ef 90.3625
+gs
+db
+eb -43.4636
+gc
+pf
+eb 4.3689
+pb
+gs
+ps
+pb
+eb -26.8484
+ef -78.6434
+pf
+ps
+pb
+db
+gc
+df
+ps
+gc
+df
+pf
+eb 18.623
+gc
+pf
+db
+gf
+eb -40.9117
+gs
+db
+db
+db
+db
+pf
+eb -95.4351
+ps
+ef -54.2287
+ps
+ps
+db
+eb 69.9056
+eb 28.3633
+df
+eb 15.0547
+db
+ef -66.1259
+gb
+pb
+df
+eb -4.79138
+eb -46.7355
+eb -48.3287
+gs
+ef -66.3331
+eb -58.1758
+gc
+ef 34.1651
+pf
+eb -1.4805
+qt

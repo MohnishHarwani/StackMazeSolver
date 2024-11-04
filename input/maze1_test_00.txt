@@ -1,0 +1,11 @@
+3
+3
+3
+0
+print_walls
+0
+print_walls
+1
+print_walls
+2
+quit

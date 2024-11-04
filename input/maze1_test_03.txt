@@ -1,0 +1,15 @@
+8
+6
+5
+2436727775
+print_walls
+0
+print_walls
+1
+print_walls
+2
+print_walls
+3
+print_walls
+4
+quit

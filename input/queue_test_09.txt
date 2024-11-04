@@ -1,0 +1,63 @@
+float
+3
+4
+3
+pb
+pf
+df
+pb
+df
+pf
+eb -62.8863
+gb
+eb 9.49419
+ef 72.8289
+ef 52.9228
+eb 53.7453
+db
+ef -4.92009
+gf
+eb 65.7671
+pb
+ps
+gc
+ps
+df
+pb
+ef 67.5147
+gb
+eb 27.5213
+pf
+eb 88.2384
+gc
+eb 68.5804
+gs
+db
+pf
+gc
+ef -82.3065
+ef -22.1368
+gs
+gs
+ef 47.0204
+ef -71.5447
+ps
+eb -14.9955
+gb
+pb
+db
+ef -38.1109
+df
+gb
+eb 43.4488
+cl
+gc
+ef -24.7898
+gf
+gb
+gc
+eb 80.3008
+gc
+ef -77.6575
+pb
+qt

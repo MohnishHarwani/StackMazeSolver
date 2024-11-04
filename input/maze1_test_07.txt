@@ -1,0 +1,11 @@
+15
+9
+3
+76520991
+print_walls
+0
+print_walls
+1
+print_walls
+2
+quit

@@ -1,0 +1,16 @@
+14
+11
+2
+673753910
+solve
+13
+5
+1
+2
+9
+1
+print_marks
+0
+print_marks
+1
+quit
